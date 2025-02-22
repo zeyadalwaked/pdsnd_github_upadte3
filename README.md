@@ -8,9 +8,15 @@ Programming for Data Science Nanodegree Program
 
 ### Description
 this project is a part of Udacity's Programming for Data Science nano-degree. and it's also a practice for using Git and Github. and in this course I leraned the SQL and Python
+On this project I lerned python ,sql and git 
 
 ### Files used
-bikeshare.py Project udacity on SQL Udacity_Python_Project .py
+bikeshare.py 
+Project udacity on SQL 
+Udacity_Python_Project .py
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
 the reop used it https://github.com/udacity/pdsnd_github
