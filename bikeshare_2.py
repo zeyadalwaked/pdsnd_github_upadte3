@@ -77,7 +77,7 @@ def load_data(city, month, day):
     if day != 'all':
         df = df[df['day_of_week'].str.lower() == day]
 
-    # Refactoring Change 1: Added a function to rename columns for consistency
+    # Refactoring Change 1 : Added a function to rename columns for consistency
     df.rename(columns=lambda x: x.strip().lower().replace(' ', '_'), inplace=True)
 
     return df
