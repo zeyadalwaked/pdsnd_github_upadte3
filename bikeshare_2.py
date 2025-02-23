@@ -99,7 +99,7 @@ def main():
 
         display_data(df)
 
-        # Refactoring Change 2: Simplified restart logic
+        # Refactoring Change  2: Simplified restart logic
         if input('\nWould you like to restart? Enter yes or no: ').strip().lower() != 'yes':
             break
 
